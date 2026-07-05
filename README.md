@@ -11,3 +11,5 @@
 [Ghost9 - Core Dump](https://cyb3rphantom.com/?page=breachlab/ghost9.md)<br>
 [Ghost10 - Odd Token Out](https://cyb3rphantom.com/?page=breachlab/ghost10.md)<br>
 [Ghost11 - Unwrap the Stage](https://cyb3rphantom.com/?page=breachlab/ghost11.md)<br>
+[Ghost12 - Harvested Key](https://cyb3rphantom.com/?page=breachlab/ghost12.md)<br>
+[Ghost13 - Credential Broker](https://cyb3rphantom.com/?page=breachlab/ghost13.md)<br>
